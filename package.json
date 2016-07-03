@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/apsaxena24/Ecommerce/issues"
   },
-  "homepage": "https://github.com/apsaxena24/Ecommerce#readme"
+  "homepage": "https://github.com/apsaxena24/Ecommerce#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
