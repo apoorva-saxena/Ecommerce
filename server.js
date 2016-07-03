@@ -42,6 +42,10 @@ app.get('/', function(req, res) {
   res.render('home');
 });
 
+app.get('/about', function(req, res) {
+  res.render('about');
+});
+
 app.listen(3000, function(err) {
   if (err) throw err;
   console.log("Server is running on port 3000");
