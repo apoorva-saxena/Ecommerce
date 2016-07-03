@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "This is an ecommerce website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apsaxena24/Ecommerce.git"
+  },
+  "author": "Apoorva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apsaxena24/Ecommerce/issues"
+  },
+  "homepage": "https://github.com/apsaxena24/Ecommerce#readme"
+}
